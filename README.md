@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Manav 👋</h1>
+<h1 align="center">Hi, I'm Manav 👋</h1>
 
 ![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManavRaja&count_private=true&show_icons=true&theme=synthwave)
 
