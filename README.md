@@ -10,6 +10,8 @@
   <li>Bootstrap</li>
   <li>React/Nextjs</li>
   <li>Fastapi</li>
+  <li>Flask</li>
+  <li>Django</li>
   <li>Expressjs</li>
   <li>MongoDB</li>
 </ul>
